@@ -1,0 +1,51 @@
+Store_ID,Store_Name,Store_City,Store_Location,Store_Open_Date
+1,Maven Toys Guadalajara 1,Guadalajara,Residential,9/18/92
+2,Maven Toys Monterrey 1,Monterrey,Residential,4/27/95
+3,Maven Toys Guadalajara 2,Guadalajara,Commercial,12/27/99
+4,Maven Toys Saltillo 1,Saltillo,Downtown,1/1/00
+5,Maven Toys La Paz 1,La Paz,Downtown,5/31/01
+6,Maven Toys Mexicali 1,Mexicali,Commercial,12/13/03
+7,Maven Toys Monterrey 2,Monterrey,Downtown,12/25/03
+8,Maven Toys Pachuca 1,Pachuca,Downtown,10/14/04
+9,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,10/15/04
+10,Maven Toys Campeche 1,Campeche,Downtown,1/14/05
+11,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,4/19/05
+12,Maven Toys Chetumal 1,Chetumal,Downtown,5/5/06
+13,Maven Toys Mexicali 2,Mexicali,Downtown,8/30/06
+14,Maven Toys Guanajuato 1,Guanajuato,Downtown,1/31/07
+15,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,3/5/07
+16,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,5/19/07
+17,Maven Toys Toluca 1,Toluca,Downtown,12/9/07
+18,Maven Toys Merida 1,Merida,Downtown,8/22/08
+19,Maven Toys Puebla 1,Puebla,Commercial,12/16/08
+20,Maven Toys Zacatecas 1,Zacatecas,Downtown,5/29/09
+21,Maven Toys Santiago 1,Santiago,Downtown,11/23/09
+22,Maven Toys Guanajuato 2,Guanajuato,Commercial,3/29/10
+23,Maven Toys Chihuahua 1,Chihuahua,Commercial,6/12/10
+24,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,7/31/10
+25,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,9/8/10
+26,Maven Toys Campeche 2,Campeche,Commercial,9/15/10
+27,Maven Toys Oaxaca 1,Oaxaca,Downtown,10/2/10
+28,Maven Toys Puebla 2,Puebla,Downtown,4/1/11
+29,Maven Toys Xalapa 1,Xalapa,Commercial,6/21/11
+30,Maven Toys Guadalajara 3,Guadalajara,Airport,10/20/11
+31,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,5/4/12
+32,Maven Toys Hermosillo 1,Hermosillo,Residential,8/31/12
+33,Maven Toys Monterrey 3,Monterrey,Airport,3/17/13
+34,Maven Toys Villahermosa 1,Villahermosa,Downtown,6/7/13
+35,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,6/11/13
+36,Maven Toys Morelia 1,Morelia,Downtown,7/1/13
+37,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,11/28/13
+38,Maven Toys Chihuahua 2,Chihuahua,Downtown,3/18/14
+39,Maven Toys Xalapa 2,Xalapa,Downtown,4/21/14
+40,Maven Toys Toluca 2,Toluca,Commercial,5/27/14
+41,Maven Toys Hermosillo 2,Hermosillo,Downtown,6/1/14
+42,Maven Toys Hermosillo 3,Hermosillo,Commercial,6/27/14
+43,Maven Toys Durango 1,Durango,Downtown,6/30/14
+44,Maven Toys Puebla 3,Puebla,Residential,12/27/14
+45,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,6/21/15
+46,Maven Toys Guadalajara 4,Guadalajara,Downtown,10/31/15
+47,Maven Toys Monterrey 4,Monterrey,Commercial,11/21/15
+48,Maven Toys Saltillo 2,Saltillo,Commercial,3/23/16
+49,Maven Toys Culiacan 1,Culiacan,Downtown,5/10/16
+50,Maven Toys Guanajuato 3,Guanajuato,Residential,5/18/16
